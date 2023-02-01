@@ -1,0 +1,64 @@
+Title: Moby Dick
+Full Author: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Word Count: 10
+Line Count: 3
+
+Title: Moby Dick
+Full Author: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Title: Moby Dick
+Full Author: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Title: Moby Dick
+Full Author: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Word Count: 10
+Line Count: 3
+
+
+Title: Peter Pan
+Full Author: James Barrie
+Author First Name: James
+Author Last Name: Barrie
+Word Count: 3051
+Line Count: 314
+Peter Pan Letter Frequency:
+a: 7.69171%
+b: 1.41772%
+c: 1.98167%
+d: 4.83277%
+e: 12.8535%
+f: 1.95034%
+g: 2.30281%
+h: 7.19825%
+i: 6.1565%
+j: 0.180152%
+k: 0.892927%
+l: 3.77536%
+m: 2.54563%
+n: 7.53505%
+o: 7.23741%
+p: 1.56654%
+q: 0.125323%
+r: 5.69437%
+s: 6.24266%
+t: 8.52197%
+u: 2.76494%
+v: 1.00258%
+w: 3.00775%
+x: 0.164487%
+y: 2.27148%
+z: 0.0861596%
+
+Title: Moby Dick
+Full Author: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Word Count: 202
+Line Count: 19
+
